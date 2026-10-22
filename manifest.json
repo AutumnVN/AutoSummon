@@ -1,0 +1,9 @@
+{
+    "id": "auto-summon",
+    "name": "Auto Summon",
+    "version": "1.0.0",
+    "author": "LaunchPad & AutumnVN",
+    "description": "Automatically summons your max number of minions from a configured inventory column, and re-summons them after respawn.",
+    "entry_dll": "AutoSummon.dll",
+    "multiplayer": "client-only"
+}
